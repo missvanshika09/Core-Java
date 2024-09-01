@@ -4,7 +4,7 @@
 */
 
 import java.util.*;
-public class Main
+public class Star1
 {
 	public static void main(String[] args) {
 		Scanner star=new Scanner(System.in);
