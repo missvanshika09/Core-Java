@@ -1,4 +1,5 @@
-/*Pattern to be Printed :
+/*
+Pattern to be Printed :
     A a
     A b
     A c
