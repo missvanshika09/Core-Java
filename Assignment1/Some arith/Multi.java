@@ -1,6 +1,6 @@
 import java.util.*;
 public class Multi 
-{	//accept two numbers and add them.
+{	//accept two numbers and multi them.
 	public static void main(String[] args) {
 		Scanner multi =new Scanner(System.in);
 		int x=multi.nextInt();
