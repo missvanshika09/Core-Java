@@ -1,6 +1,6 @@
 import java.util.*;
 public class Subtract 
-{	//accept two numbers and add them.
+{	//accept two numbers and sub them.
 	public static void main(String[] args) {
 		Scanner sub=new Scanner(System.in);
 		int x=sub.nextInt();
