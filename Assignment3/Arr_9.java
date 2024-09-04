@@ -1,5 +1,5 @@
 //. create int array of 5 elements and accept 5 values inside it. Now accept one more number and check whether that number is there inside array or not.
-package Vanshika;
+
 import java.util.*;
 public class Arr_9 {
 
