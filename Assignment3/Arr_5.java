@@ -1,9 +1,8 @@
-package Vanshika;
 import java.util.*;
 public class Arr_5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int a[];
 		Scanner sc = new Scanner(System.in);
 		a=new int[5];
