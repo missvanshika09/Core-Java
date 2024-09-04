@@ -1,4 +1,3 @@
-package vanshika;
 import java.util.*;
 public class Long {
 
