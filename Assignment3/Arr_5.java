@@ -13,4 +13,6 @@ public class Arr_5 {
 			
 		}
 		sc.close();
+	}
+}
 		
