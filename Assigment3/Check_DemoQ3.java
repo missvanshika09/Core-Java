@@ -12,7 +12,7 @@ int num4=400;
 	}
 }
 
-public class Check_Demo {
+public class Check_DemoQ3 {
 
 	public static void main(String[] args) {
 	
